@@ -1,2 +1,3 @@
-# day1
-Day 1 of using customtkinter
+# Day 1
+
+Simple Hello World app using customtkinter library
